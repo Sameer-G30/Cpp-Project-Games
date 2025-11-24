@@ -6,7 +6,7 @@ A C++ console-based collection of mini-games - Hand Cricket, Snake Game, and Tic
 Tech Stack:
 - Language: C++
 - Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Random Number Generation, Minimax Algorithm, Console I/O
-- Libraries: <iostream>, <ctime>, <cstdlib>, <conio.h>, <windows.h>, <string>
+- Libraries: iostream, ctime, cstdlib, conio.h, windows.h, string
 
 Features:
 
@@ -18,9 +18,9 @@ Features:
 Interactive console interface with score tracking and replay options.
 
 Highlights:
-Implements both procedural and object-oriented logic in one project.
-Demonstrates integration of multiple small games within a single C++ program.
-Reinforces understanding of user-defined functions, class handling, and simple AI.
+- Implements both procedural and object-oriented logic in one project.
+- Demonstrates integration of multiple small games within a single C++ program.
+- Reinforces understanding of user-defined functions, class handling, and simple AI.
 
 Future Scope:
 Add GUI using SFML or SDL2, expand to multiplayer modes, and implement persistent score tracking.
