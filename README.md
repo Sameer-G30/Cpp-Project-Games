@@ -22,5 +22,21 @@ Highlights:
 - Demonstrates integration of multiple small games within a single C++ program.
 - Reinforces understanding of user-defined functions, class handling, and simple AI.
 
+
+Screenshots:
+
+![Home](./screenshots/1.png)
+
+![Hand Cricket](./screenshots/2.png)
+
+![Snake](./screenshots/3.png)
+
+![Snake2](./screenshots/4.png)
+
+![Tic Tac Toe](./screenshots/5.png)
+
+![Tic Tac Toe2](./screenshots/6.png)
+
+
 Future Scope:
-Add GUI using SFML or SDL2, expand to multiplayer modes, and implement persistent score tracking.
+- Add GUI using SFML or SDL2, expand to multiplayer modes, and implement persistent score tracking.
